@@ -1,7 +1,7 @@
 import turtle
 import random
 turtle.bgcolor("black")
-turtle.setpos(5,5)
+
 def draw_rangoli():
     # Create the turtle object
     t = turtle.Turtle()
